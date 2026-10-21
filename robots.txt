@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://justintiensmith.github.io/sitemap.xml
